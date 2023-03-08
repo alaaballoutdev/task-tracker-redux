@@ -28,6 +28,7 @@ Your Tasks will be ordered by time whatever the order you entered by. Also you c
 ### Built With
 - [React.js](https://beta.reactjs.org/)
 - [react-redux](https://react-redux.js.org/introduction/getting-started)
+- [@reduxjs/toolkit](https://redux.js.org/)
 - [Framer motion](https://www.framer.com/motion/)
 - Fonts:
     - [Inter](https://fonts.google.com/specimen/Inter)
