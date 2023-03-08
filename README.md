@@ -1,4 +1,43 @@
-# Getting Started with Create React App and Redux
+# Simple Task Tracker App
+
+## Table of contents
+
+- [Overview](#overview)
+  - [ScreenShot](#screenShot)
+
+- [My process](#my-process)
+  - [Built with](#built-with)
+
+- [Author](#author)  
+
+- [Getting Started With React](#getting-started-with-react)
+
+## Overview
+This is a simple Task Tracker App Built With React JS library , and example for usage [React Redux](https://react-redux.js.org/introduction/getting-started) in React.
+
+Your Tasks will be ordered by time whatever the order you entered by. Also you can delete task by swiping to the right.
+
+### ScreenShot
+#### Desktop Design
+![](./screenshots/Basic.png)
+
+#### Mobile Design
+![](./screenshots/Mobile.png)
+
+## My Process
+### Built With
+- [React.js](https://beta.reactjs.org/)
+- [react-redux](https://react-redux.js.org/introduction/getting-started)
+- [Framer motion](https://www.framer.com/motion/)
+- Fonts:
+    - [Inter](https://fonts.google.com/specimen/Inter)
+
+## Author
+- LinkedIn - [Alaa Ballout](https://www.linkedin.com/in/alaa-ballout/)
+- Gmail    - [Contact Us](mailto:alaaballoutdev@gmail.com)
+
+
+## Getting Started With React
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
@@ -44,3 +83,27 @@ You don't have to ever use `eject`. The curated feature set is suitable for smal
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
 To learn React, check out the [React documentation](https://reactjs.org/).
+
+### Code Splitting
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
+
+### Analyzing the Bundle Size
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+
+### Making a Progressive Web App
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
